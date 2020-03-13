@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-search-bar": "/components/nav/uni-search-bar/uni-search-bar",
+    "uni-section": "/components/uni-section/uni-section",
+    "uni-popup": "/components/nav/uni-popup/uni-popup",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "uni-tag": "/components/nav/uni-tag/uni-tag"
+  }
+}

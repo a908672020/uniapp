@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/cart/cart",
+    "pages/customer/customer",
+    "pages/store/store",
+    "pages/index/index",
+    "pages/user/user",
+    "pages/user/logined",
+    "pages/user/phonelogin"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "#FE0005",
+    "color": "#FFFFFF",
+    "selectedColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/home.png"
+      },
+      {
+        "pagePath": "pages/customer/customer",
+        "text": "客服",
+        "iconPath": "static/icons/customer_service.png",
+        "selectedIconPath": "static/icons/customer_service.png"
+      },
+      {
+        "pagePath": "pages/store/store",
+        "text": "门店入口",
+        "iconPath": "static/icons/base.png",
+        "selectedIconPath": "static/icons/base.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
+        "iconPath": "static/icons/cart_empty.png",
+        "selectedIconPath": "static/icons/cart_empty.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的账户",
+        "iconPath": "static/icons/user.png",
+        "selectedIconPath": "static/icons/user.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap3.json"
+}

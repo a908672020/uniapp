@@ -1,0 +1,39 @@
+
+.pd05 {
+	padding: 0px 5vw;
+}
+.bg {
+	background-color: #f4f4f4;
+	font-size: 24rpx;
+}
+.fl {
+	float: left;
+}
+.cart_top {
+	background-color: #ffffff;
+	height: 100rpx;
+	line-height: 100rpx;
+}
+.product {
+	background-color: #ffffff;
+	margin-top: 30rpx;
+	padding-top: 10rpx;
+}
+.totalprice {
+	width: 100vw;
+	border-top: 1px solid #d3d3d3;
+	position: fixed;
+	bottom: 0;
+	font-size: 30rpx;
+	line-height: 50rpx;
+}
+.payable {
+	float: right;
+	width: 20vw;
+	height: 50rpx;
+	line-height: 50rpx;
+	text-align: center;
+	font-size: 30rpx;
+	margin-right: 5vw;
+}
+

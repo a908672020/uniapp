@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "navbar": "/components/nav/nav",
+    "special-banner": "/components/swiper/specialBanner",
+    "prolist": "/components/uni-product-list/prolist"
+  }
+}

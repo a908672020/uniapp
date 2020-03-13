@@ -1,0 +1,35 @@
+
+.bg {
+		background-color: #f4f4f4;
+		padding: 5vw;
+}
+.con {
+	background-color: #ffffff;
+	width: 90vw;
+	box-shadow: 1px 5px 5px #e3e3e3;
+	text-align: center;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.contast{
+	text-align: left;
+	padding-left: 5vw;
+}
+.text{
+	margin-top: 24rpx;
+	margin-bottom: 24rpx;
+}
+.contast button{
+	background-color: #333333;
+	color: #FFFFFF;
+	text-align: center;
+	height: 100rpx;
+	line-height: 100rpx;
+	width: 80vw;
+	font-size: 1em;
+}
+

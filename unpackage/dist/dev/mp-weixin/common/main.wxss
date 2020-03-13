@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+text{
+	font-family: '\601D\6E90\9ED1\4F53   CN';
+}
+button::after{
+	border: none;
+}
+
